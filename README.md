@@ -49,6 +49,7 @@ test();
 ```
 
 # version
-## 0.0.1.20180803
-1. init project
-2. modify md
+## 0.0.1.20190621
+1. setCookie
+2. getCookie
+3. cookie
