@@ -17,11 +17,31 @@ npm install qiao.ext.electron
 ## documentation
 
 # api
+## is
+```javascript
+'use strict';
+
+var qiaoExtElectron = require('qiao.ext.electron');
+
+var test = async function(){
+	try{
+		// console.log('is electron ', qiaoExtElectron.isElectron());
+		console.log('is mac ', qiaoExtElectron.isMac());
+		console.log('is linux ', qiaoExtElectron.isLinux());
+		console.log('is win ', qiaoExtElectron.isWin());
+	}catch(e){
+		console.log(e);
+	}
+};
+
+test();
+```
+
 ## cookie
 ```javascript
 'use strict';
 
-var qiaoExtElectron = require('../lib/qiao.ext.electron.js');
+var qiaoExtElectron = require('qiao.ext.electron');
 
 var test = async function(){
 	try{
