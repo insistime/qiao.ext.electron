@@ -69,6 +69,12 @@ test();
 ```
 
 # version
+## 0.0.2.20190812
+1. is electron
+2. is mac
+3. is win
+4. is linux
+
 ## 0.0.1.20190621
 1. setCookie
 2. getCookie
