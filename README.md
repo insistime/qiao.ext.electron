@@ -69,6 +69,9 @@ test();
 ```
 
 # version
+## 0.0.3.20190908
+1. add req method
+
 ## 0.0.2.20190812
 1. is electron
 2. is mac
