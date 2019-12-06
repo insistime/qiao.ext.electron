@@ -72,6 +72,10 @@ test();
 ```
 
 # version
+## 0.0.4.20191206
+1. add funding
+2. update packages
+
 ## 0.0.3.20190908
 1. add req method
 
