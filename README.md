@@ -71,7 +71,23 @@ var test = async function(){
 test();
 ```
 
+## notification
+```javascript
+'use strict';
+
+var qiaoExtElectron = require('qiao.ext.electron');
+
+var test = async function(){
+	qiaoExtElectron.notification('test');
+};
+
+test();
+```
+
 # version
+## 0.0.5.20200325
+1. add notification
+
 ## 0.0.4.20191206
 1. add funding
 2. update packages
