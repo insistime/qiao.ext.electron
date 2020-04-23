@@ -85,6 +85,9 @@ test();
 ```
 
 # version
+## 0.0.6.20200423
+1. npm un electron
+
 ## 0.0.5.20200325
 1. add notification
 
